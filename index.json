@@ -1,0 +1,26 @@
+{
+  "name": "Kitti Store",
+  "identifier": "com.kitti.altstore",
+  "sourceURL": "https://github.com/insoftjla/kitti.altstore/index.json",
+  "apps": [
+    {
+      "name": "Kitti",
+      "bundleIdentifier": "com.insoftjla.Kitti",
+      "developerName": "Sergey Inyakin",
+      "subtitle": "Мессенджер нового поколения",
+      "version": "1.0",
+      "versionDate": "2025-10-14T00:00:00Z",
+      "versionDescription": "Первая версия Kitti с поддержкой чатов и push-уведомлений.",
+      "downloadURL": "https://github.com/insoftjla/kitti.altstore/Kitti.ipa",
+      "localizedDescription": "Kitti — мессенджер с минималистичным интерфейсом, безопасной авторизацией и мгновенными уведомлениями.",
+      "iconURL": "https://github.com/insoftjla/kitti.altstore/icon.png",
+      "screenshotURLs": [
+        "https://github.com/insoftjla/kitti.altstore/screenshot1.png",
+        "https://github.com/insoftjla/kitti.altstore/screenshot2.png"
+      ],
+      "tintColor": "1D9BF0",
+      "size": 75200000,
+      "permissions": ["network"]
+    }
+  ]
+}
